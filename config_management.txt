@@ -1,0 +1,3 @@
+Configuration management (CM) is the practice of handling changes in software systems,
+keeping track of versions, and ensuring consistency across environments. CM helps teams
+reproduce builds, rollback changes, and collaborate safely.
